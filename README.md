@@ -8,7 +8,7 @@
 ## 🛠️ Technologies & Skills
 - Programming: Python, HTML/CSS/JavaScript, C#
 - Tools: Git, VSCode, Jupyter, Figma
-- 
+
 ## 📫 My Links
 - Portfolio: [https://yourportfolio.com](https://jessica-patel.github.io/portfolio-website/)
 - LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/jessica--patel/)
