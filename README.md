@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Jess! Welcome to my GitHub page!
 
-<!--
-**jessica-patel/jessica-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **HCI researcher and Master of Design student @ OCAD University**
+💻 **Passionate about ethical AI and designing inclusive systems**  
+🌟 **Research Interests: Game HCI, ML/AI, critical design, ethics/inclusivity
+🌱 **Currently exploring NLP for sentiment analysis and toxicity detection**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+- Programming: Python, HTML/CSS/JavaScript, C#
+- Tools: Git, VSCode, Jupyter, Figma
+- 
+## 📫 My Links
+- Portfolio: [https://yourportfolio.com](https://jessica-patel.github.io/portfolio-website/)
+- LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/jessica--patel/)
